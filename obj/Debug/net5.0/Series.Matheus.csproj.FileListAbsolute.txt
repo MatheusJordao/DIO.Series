@@ -1,0 +1,16 @@
+C:\Users\DSV-05\Series.Matheus\bin\Debug\net5.0\Series.Matheus.exe
+C:\Users\DSV-05\Series.Matheus\bin\Debug\net5.0\Series.Matheus.deps.json
+C:\Users\DSV-05\Series.Matheus\bin\Debug\net5.0\Series.Matheus.runtimeconfig.json
+C:\Users\DSV-05\Series.Matheus\bin\Debug\net5.0\Series.Matheus.runtimeconfig.dev.json
+C:\Users\DSV-05\Series.Matheus\bin\Debug\net5.0\Series.Matheus.dll
+C:\Users\DSV-05\Series.Matheus\bin\Debug\net5.0\ref\Series.Matheus.dll
+C:\Users\DSV-05\Series.Matheus\bin\Debug\net5.0\Series.Matheus.pdb
+C:\Users\DSV-05\Series.Matheus\obj\Debug\net5.0\Series.Matheus.csproj.AssemblyReference.cache
+C:\Users\DSV-05\Series.Matheus\obj\Debug\net5.0\Series.Matheus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DSV-05\Series.Matheus\obj\Debug\net5.0\Series.Matheus.AssemblyInfoInputs.cache
+C:\Users\DSV-05\Series.Matheus\obj\Debug\net5.0\Series.Matheus.AssemblyInfo.cs
+C:\Users\DSV-05\Series.Matheus\obj\Debug\net5.0\Series.Matheus.csproj.CoreCompileInputs.cache
+C:\Users\DSV-05\Series.Matheus\obj\Debug\net5.0\Series.Matheus.dll
+C:\Users\DSV-05\Series.Matheus\obj\Debug\net5.0\ref\Series.Matheus.dll
+C:\Users\DSV-05\Series.Matheus\obj\Debug\net5.0\Series.Matheus.pdb
+C:\Users\DSV-05\Series.Matheus\obj\Debug\net5.0\Series.Matheus.genruntimeconfig.cache
